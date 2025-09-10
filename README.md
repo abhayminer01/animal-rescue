@@ -1,3 +1,11 @@
+### .env file
+```bash 
+PORT=3000
+MONGO_URI=mongodb+srv://admin:admin123@do-rescue.vrwebjs.mongodb.net/?retryWrites=true&w=majority&appName=do-rescue
+JWT_KEY=super-secret
+```
+
+
 # 🐾 HopesAlive: Revolutionizing Animal Rescue  
 
 **HopesAlive** is a dedicated platform designed to bridge the gap between citizens, volunteers, and NGOs in addressing animal emergencies. Whether it's an injured animal or an accident involving one, HopesAlive provides a streamlined solution to report, assign, and resolve incidents with efficiency and compassion.  
