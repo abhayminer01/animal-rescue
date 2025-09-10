@@ -62,13 +62,13 @@ function Footer() {
               >
                 <div className="bg-orange-500 rounded-lg p-2">
                   <span className="text-xl font-bold text-white font-serif">
-                    HA
+                    PR
                   </span>
                 </div>
                 <div className="flex items-center">
-                  <span className="text-xl font-bold text-gray-100">Hopes</span>
+                  <span className="text-xl font-bold text-gray-100">PAW</span>  
                   <span className="text-xl font-bold text-orange-500">
-                    Alive
+                    RESCUE
                   </span>
                 </div>
               </motion.div>
